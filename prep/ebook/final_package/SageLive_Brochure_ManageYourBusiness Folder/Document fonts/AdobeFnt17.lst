@@ -1,0 +1,167 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AdelleSansSAGE-Bold
+FamilyName:Adelle Sans SAGE
+StyleName:Bold
+MenuName:Adelle Sans SAGE
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:AdelleSansSAGE-Bold
+WritingScript:Roman
+OutlineFileName:\AdelleSansSage-Bold.ttf
+DataFormat:sfntData
+FileLength:211016
+FileModTime:1485779426
+NameArray:0,Mac,18,Adelle Sans SAGE Bold
+NameArray:0,Mac,4,Adelle Sans SAGE Bold
+NameArray:0,Win,1,Adelle Sans SAGE
+NameArray:0,Win,16,Adelle Sans SAGE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AdelleSansSAGE
+FamilyName:Adelle Sans SAGE
+StyleName:Regular
+MenuName:Adelle Sans SAGE
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:AdelleSansSAGE
+WritingScript:Roman
+OutlineFileName:\AdelleSansSage.ttf
+DataFormat:sfntData
+FileLength:182616
+FileModTime:1485779426
+NameArray:0,Mac,18,Adelle Sans SAGE
+NameArray:0,Mac,4,Adelle Sans SAGE
+NameArray:0,Win,1,Adelle Sans SAGE
+NameArray:0,Win,16,Adelle Sans SAGE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AdelleSansSAGELt
+FamilyName:Adelle Sans SAGE
+StyleName:Light
+MenuName:Adelle Sans SAGE Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:AdelleSansSAGELt
+WritingScript:Roman
+OutlineFileName:\AdelleSansSAGELt.ttf
+DataFormat:sfntData
+FileLength:205852
+FileModTime:1485779426
+NameArray:0,Mac,18,Adelle Sans SAGE Light
+NameArray:0,Mac,4,Adelle Sans SAGE Lt
+NameArray:0,Win,1,Adelle Sans SAGE Lt
+NameArray:0,Win,16,Adelle Sans SAGE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AdelleSansSAGETh
+FamilyName:Adelle Sans SAGE
+StyleName:Thin
+MenuName:Adelle Sans SAGE Th
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:AdelleSansSAGETh
+WritingScript:Roman
+OutlineFileName:\AdelleSansSAGETh.ttf
+DataFormat:sfntData
+FileLength:196712
+FileModTime:1485779426
+NameArray:0,Mac,18,Adelle Sans SAGE Thin
+NameArray:0,Mac,4,Adelle Sans SAGE Th
+NameArray:0,Win,1,Adelle Sans SAGE Th
+NameArray:0,Win,16,Adelle Sans SAGE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1485779426
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdelleSans-Thin
+FamilyName:Adelle Sans
+StyleName:Thin
+MenuName:Adelle Sans Th
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:AdelleSans-Thin
+WritingScript:Roman
+OutlineFileName:\TypeTogether - AdelleSans-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:100732
+FileModTime:1485779426
+NameArray:0,Mac,4,AdelleSans-Thin
+NameArray:0,Win,1,Adelle Sans Th
+NameArray:0,Win,16,Adelle Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdelleSans-ThinItalic
+FamilyName:Adelle Sans
+StyleName:Thin Italic
+MenuName:Adelle Sans Th
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:AdelleSans-ThinItalic
+WritingScript:Roman
+OutlineFileName:\TypeTogether - AdelleSans-ThinItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:103988
+FileModTime:1485779426
+NameArray:0,Mac,4,AdelleSans-ThinItalic
+NameArray:0,Win,1,Adelle Sans Th
+NameArray:0,Win,16,Adelle Sans
+%EndFont
+
